@@ -56,7 +56,7 @@ git switch -c add-max-mustermann
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="300" src="./img/git-status.png" alt="git status"/>
+<img align="right" width="450" src="./img/git-status.png" alt="git status"/>
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -99,11 +99,11 @@ replacing `your-branch-name` with the name you created earlier.
 
 IF you go to your repository on Github, you'll see a `Compare & pull request` button. Click on that button.
 
-<img align="right" width="300" src="./img/compare-and-pull.png" alt="create a pull request"/>
+<img style="float: right;" src="./img/compare-and-pull.png" alt="create a pull request"/>
 
 Now submit the pull request.
 
-<img align="right" width="300" src="./img/submit-pull-request.png" alt="submit pull request"/>
+<img style="float: right;" src="./img/submit-pull-request.png" alt="submit pull request"/>
 
 Soon the teacher will merge all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
