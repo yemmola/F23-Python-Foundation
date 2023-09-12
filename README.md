@@ -56,7 +56,7 @@ git switch -c add-max-mustermann
 
 Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
-<img align="right" width="300" src="./img/git-status.png" alt="git status"/>
+<img align="right" width="450" src="./img/git-status.png" alt="git status"/>
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -94,3 +94,21 @@ replacing `your-branch-name` with the name you created earlier.
   Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
 </details>
+
+## Submit your changes for review
+
+IF you go to your repository on Github, you'll see a `Compare & pull request` button. Click on that button.
+
+<img style="float: right;" src="./img/compare-and-pull.png" alt="create a pull request"/>
+
+Now submit the pull request.
+
+<img style="float: right;" src="./img/submit-pull-request.png" alt="submit pull request"/>
+
+Soon the teacher will merge all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
+
+## Where to go from here?
+
+Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
+
+That's it for Lesson 2's homework and keep on contributing!
